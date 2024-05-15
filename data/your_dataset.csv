@@ -1,0 +1,5 @@
+id,text,label
+1,"This is an example sentence.",1
+2,"Another example sentence for the dataset.",0
+3,"Machine learning is fascinating.",1
+4,"This text is classified as negative.",0

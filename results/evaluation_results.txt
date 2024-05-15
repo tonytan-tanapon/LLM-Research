@@ -1,0 +1,10 @@
+Model Evaluation Results
+========================
+Accuracy: 85.00%
+Precision: 84.50%
+Recall: 83.75%
+F1 Score: 84.12%
+
+Confusion Matrix:
+[[45  5]
+ [ 8 42]]
