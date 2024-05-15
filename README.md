@@ -2,6 +2,20 @@
 
 This repository contains the research project on Large Language Models (LLM). The project explores various aspects and applications of LLMs, including data preprocessing, model training, evaluation, and more.
 
+## Features
+
+- Study of state-of-the-art LLMs like GPT-3, GPT-4, BERT
+- Implementation of NLP tasks using LLMs
+- Understanding of transformer architecture
+- Practical applications of LLMs in real-world scenarios
+
+## Technologies Used
+
+- Python
+- TensorFlow
+- PyTorch
+- Hugging Face Transformers
+
 ## Project Structure
 
 - **README.md**: Overview of the project, installation instructions, and usage.
@@ -38,4 +52,3 @@ This repository contains the research project on Large Language Models (LLM). Th
 Run the data preprocessing script to prepare the dataset for training:
 ```bash
 python src/data_preprocessing.py
-

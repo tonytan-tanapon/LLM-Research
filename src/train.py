@@ -5,8 +5,8 @@ from model import build_model
 
 def load_data():
     train_data = pd.read_csv('data/train_data.csv')
-    X_train = train_data.drop('target', axis=1)
-    y_train = train_data['target']
+    X_train = train_data.drop('label', axis=1)
+    y_train = train_data['label']
     return X_train, y_train
 
 def train_model():
